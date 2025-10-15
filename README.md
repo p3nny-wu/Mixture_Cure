@@ -1,4 +1,6 @@
 # Supplemental Code — JAMIA Open
+[![DOI](https://zenodo.org/badge/1076565715.svg)](https://doi.org/10.5281/zenodo.17355295)
+
 **Title:** Using Mixture Cure Models to Address Algorithmic Bias in Diagnostic Timing: Autism as a Test Case
 **Purpose:** Reproduce the simulation study and figures reported in the manuscript.
 
